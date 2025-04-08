@@ -1,0 +1,52 @@
+package student_manag;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Student
+{
+	static int sid=123456;
+	private String id;
+	private String name;
+	private String email;
+	private long contact;
+	private String address;
+	private ArrayList<Education>listEdu= new ArrayList<>();
+	private ArrayList<Mock>listMock= new ArrayList<>();
+	private ArrayList<Requirement>listReq= new ArrayList<>();
+	
+	public Student(String name,String email,long contact,String address)
+	{
+		super();
+		this.id="QSP" + sid++;
+		this.name=name;
+		this.email=email;
+		this.address=address;
+		this.listEdu=addEducationDetails();
+		
+}
+
+private  ArrayList<Education> addEducationDetails()
+	{
+	 ArrayList<Education> list =new  ArrayList<Education>();
+	 for(; ;)
+		{
+		 System.out.println("Add Educational Details :");
+		 
+		 Education edu=new Education(null,,null,null,0);
+		 list.add(edu);
+		 
+		 System.out.print("Do you want to add more edu info");
+		 String resp=new Scanner(System.in).next();
+		 if(resp.equalsIgnoreCase("YES"))
+			{
+			 continue;
+			}
+			else{
+				break;
+			}
+		}
+		return list ;
+	}
+}
+			 
