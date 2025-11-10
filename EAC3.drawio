@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="aL9f8G-H7j4d5K9l1mP0">
+    <mxGraphModel dx="1924" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="220" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-5" value="TOGAF-based Enterprise Architecture for a Healthcare Provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="290" y="10" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-6" value="Business Processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-7" value="Patient Registration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-8" value="Appointment Scheduling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-9" value="Clinical Consultation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-10" value="Billing &amp;amp; Claims" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-11" value="Business Drivers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="690" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-12" value="Improve Patient Outcomes&lt;br&gt;Enhance Operational Efficiency&lt;br&gt;Ensure HIPAA Compliance&lt;br&gt;Increase Patient Engagement" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="695" y="105" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-13" value="Patient Portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-14" value="EHR / EMR System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-15" value="Telemedicine Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-16" value="Billing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-17" value="API Gateway / ESB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="790" y="265" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-13" target="Z-iF5nE_jK6G5sC7a8b4-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="260" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+              <mxPoint x="270" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-20" value="supports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z-iF5nE_jK6G5sC7a8b4-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-14" target="Z-iF5nE_jK6G5sC7a8b4-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-16" target="Z-iF5nE_jK6G5sC7a8b4-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="260" as="sourcePoint" />
+            <mxPoint x="550" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-23" value="Patient Data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-24" value="Clinical Data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-25" value="Financial Data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-26" value="Clinical Data Repository" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="510" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-27" value="Data Warehouse" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="670" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-28" value="Interoperability Standards:&lt;br&gt;HL7, FHIR" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="830" y="455" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-26" target="Z-iF5nE_jK6G5sC7a8b4-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="430" as="sourcePoint" />
+            <mxPoint x="310" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="380" />
+              <mxPoint x="310" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-30" value="consumed by" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z-iF5nE_jK6G5sC7a8b4-29" vertex="1" connectable="0">
+          <mxGeometry x="0.0833" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-31" value="Hybrid Cloud Infrastructure&lt;br&gt;(AWS, Azure)" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="50" y="605" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-32" value="On-Premise Servers&lt;br&gt;(Data Center)" style="shape=server;whiteSpace=wrap;html=1;perimeter=none;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="270" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-33" value="Network &amp;amp; Security&lt;br&gt;(Firewall, VPN, IAM)" style="shape=collate;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="430" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-34" value="Platform Services&lt;br&gt;(VMs, Kubernetes)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.368;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-31" target="Z-iF5nE_jK6G5sC7a8b4-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="595" as="sourcePoint" />
+            <mxPoint x="474" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="550" />
+              <mxPoint x="474" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-36" value="runs on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z-iF5nE_jK6G5sC7a8b4-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.32" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z-iF5nE_jK6G5sC7a8b4-32" target="Z-iF5nE_jK6G5sC7a8b4-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="575" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="550" />
+              <mxPoint x="575" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-38" value="hosts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z-iF5nE_jK6G5sC7a8b4-37" vertex="1" connectable="0">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-39" value="" style="shape=line;direction=south;html=1;perimeter=backbonePerimeter;points=[];strokeWidth=4;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="50" width="10" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iF5nE_jK6G5sC7a8b4-40" value="Security &amp;amp; Compliance (HIPAA)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="905" y="350" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IxNWw7CnT8eUa1zGIHT-1" value="Application Architecture (Phase C)" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="235" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IxNWw7CnT8eUa1zGIHT-2" value="Business Architecture (Phase B)" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IxNWw7CnT8eUa1zGIHT-3" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Data Architecture (Phase C)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IxNWw7CnT8eUa1zGIHT-4" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Technology Architecture (Phase D)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
