@@ -1,0 +1,7 @@
+1. Aim: Write a program for pre-processing of a text document such as stop word
+removal, stemming.
+ 2. Aim: Implement a program for retrieval of documents using inverted files. 
+ 3.Aim:Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API 
+ 4. Aim: Implement e-mail spam filtering using text classification algorithm with appropriate dataset. 
+ 5. Aim: Implement Agglomerative hierarchical clustering algorithm using appropriate dataset.
+ 6.Aim: Implement Page Rank Algorithm. (Use python or beautiful soup for Implementation). I have provided you the aims of the practical which one have the easy code then which one has the easy theory , and which ine has the easy viva questiones. SO tell me which should i perform
